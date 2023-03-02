@@ -12,3 +12,13 @@ Repositório para o projeto de Aprendizagem de Máquina, do período 2022.2 do c
 - Melhorias
 
 **Essas ações devem ser repetidas para cada um dos modelos.**
+
+## Descrição das pastas
+- auxiliares:
+  - Arquivos relacionados à como o projeto deve prosseguir.
+- codigos:
+  - Códigos dos modelos.
+- data:
+  - Arquivos dos datasets de treino e teste, bem como a sua descrição.
+- entregas:
+  - Arquivos que deverão ser entregues: Relatório (PDF) e Apresentação (Slides).

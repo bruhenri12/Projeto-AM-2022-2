@@ -1,0 +1,6 @@
+Referências KNN:
+- https://scikit-learn.org/stable/modules/cross_validation.html
+- https://scikit-learn.org/stable/modules/grid_search.html#grid-search
+- https://scikit-learn.org/stable/modules/model_evaluation.html#multimetric-scoring
+- https://scikit-learn.org/stable/auto_examples/model_selection/plot_multi_metric_evaluation.html#sphx-glr-auto-examples-model-selection-plot-multi-metric-evaluation-py
+- https://towardsdatascience.com/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f#989c
